@@ -1,0 +1,13 @@
+affiliation : ELISA Aerospace
+description : This a simple GRU model that support 1 inputs and 1 to 5 outputs
+email : Dubouchet-Thomas@hotmail.com
+model_name : ExampleModel
+other_remarks : 
+team_name : Taranis
+technology_stack : MATLAB
+Aggregated Metrics : 0.005984
+Average inference time [seconds] : 2.5336e-05
+Normalized MSE : -0.0048369   0.0028685  0.00053112    0.001478   0.0010976
+Normalized MSE Sum : 0.0011382
+Training set size : 3981
+Training time [seconds] : 3021.8327

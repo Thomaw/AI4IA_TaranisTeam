@@ -1,0 +1,13 @@
+affiliation : MathWorks
+description : This a simple GRU model that support 1 inputs and 1 to 5 outputs
+email : mgado@mathworks.com
+model_name : ExampleModel
+other_remarks : 
+team_name : AcceleratingThePaceOfEngineeringAndScience
+technology_stack : MATLAB
+Aggregated Metrics : 0.010053
+Average inference time [seconds] : 2.6787e-05
+Normalized MSE : -0.0055298 -0.00032717   0.0015165   0.0049869   0.0045543
+Normalized MSE Sum : 0.0052007
+Training set size : 3981
+Training time [seconds] : 3041.6126
